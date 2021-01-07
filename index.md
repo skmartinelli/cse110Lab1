@@ -1,12 +1,31 @@
-## Welcome to GitHub Pages
+## hello!
 
-You can use the [editor on GitHub](https://github.com/skmartinelli/cse110Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+/*
+The purpose is to give an introduction of who you are as a programmer, who you are as a person, and any other interesting things you'd like to share with the kind of person who might be taking a look at your profile (think potential employers, open source devs, generally just the kinds of people who would be looking at the source code for a project you made).
+*/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+im sam! im a second year computer science major in warren college. i am pretty new to programming (i started summer before my first year in SPIS at ucsd) but i enjoy it and try my best :'). my favorite language is python because it was my first language and because its easy LOL. i havent really made any major, employer worthy projects yet but ive made a couple discord bots for fun. I "built" my own website but its just super basic html listing my github and linkedin and all that (partially because i thought it was funny, partially because... well ... easy...). the link is [sammartinelli.com](sammartinelli.com) but prepare to be underwhelmed by what i describe as its 'tasteful minimalism.'                                                                                                                                                                                                           
 
-### Markdown
+# here is me putting a big title !
+## check out this smaller title !!
+###### this title is tiny!!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+**check out this bold text**
+*this is in italics*
+***both bold and italics?!?***
+**this has _nested_ italics!?**
+~~strikethrough lol~~
+
+In the words of Lamar Davis from grand theft auto 5:
+> don't hate me because im beautiful
+
+i use `ls` and `git status` religiously in terminal because i have irrational fear if i dont check it every 30 seconds something will go horribly wrong
+
+
+here is a [link](https://youtu.be/Zojbs86ZWe0) to a video i like
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +45,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skmartinelli/cse110Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
