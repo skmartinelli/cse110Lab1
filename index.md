@@ -31,22 +31,8 @@ i use `ls` and `git status` religiously in terminal because i have irrational fe
 
 here is a [link](https://youtu.be/Zojbs86ZWe0) to a video i like
 
+here is a [section link](## hi) to the top, i hope!
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
