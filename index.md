@@ -31,7 +31,7 @@ i use `ls` and `git status` religiously in terminal because i have irrational fe
 
 here is a [link](https://youtu.be/Zojbs86ZWe0) to a video i like
 
-here is a [section link](## hi) to the top, i hope!
+here is a [section link](#hi) to the top, i hope!
 
 
 [Link](url) and ![Image](src)
