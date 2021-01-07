@@ -35,7 +35,22 @@ here is a [section link](#hi) to the top, i hope!
 
 i hope this [relative link](/whatever.txt) works!
 
-[Link](url) and ![Image](src)
-```
+
+here is a list of my hobbies:
+-tennis
+-chess (i am not very good)
+-video games
+-movies
+
+here is an ordered list of movies i watched recently and enjoyed:
+1. for a few dollars more 
+2. uncut gems
+3. escape from new york
+
+here is a list of videogames i am playing / recently finished(checkmark means i recently finished):
+- [x] Control
+- [x] Doom Eternal
+- [ ] Witcher 3
+
 
 
