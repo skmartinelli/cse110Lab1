@@ -51,6 +51,6 @@ here is a list of videogames i am playing / recently finished(checkmark means i 
 - [ ] Witcher 3
 
 thanks for going to the bottom here is my image of a happy cat
-![Image](/Happy Cat.jpg)
+![Image](https://4.bp.blogspot.com/-jeLpdpGD8uM/Vw-SyutmllI/AAAAAAAAAAs/pN1sxEv42kgEVlD92AipPCAkM1izUmyewCLcB/s1600/Happy+Cat.jpg)
 
 
