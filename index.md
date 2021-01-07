@@ -33,6 +33,7 @@ here is a [link](https://youtu.be/Zojbs86ZWe0) to a video i like
 
 here is a [section link](#hi) to the top, i hope!
 
+i hope this [relative link](/whatever.txt) works!
 
 [Link](url) and ![Image](src)
 ```
