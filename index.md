@@ -50,5 +50,7 @@ here is a list of videogames i am playing / recently finished(checkmark means i 
 - [x] Doom Eternal
 - [ ] Witcher 3
 
+thanks for going to the bottom here is my image of a happy cat
+![Image](/Happy Cat.jpg)
 
 
