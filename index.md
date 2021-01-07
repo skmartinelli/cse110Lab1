@@ -35,12 +35,10 @@ here is a [section link](#hi) to the top, i hope!
 
 i hope this [relative link](/whatever.txt) works!
 
-
-here is a list of my hobbies:
--tennis
--chess (i am not very good)
--video games
--movies
+list of some of my hobbies:
+- tennis
+- chess (i am not very good)
+- video games
 
 here is an ordered list of movies i watched recently and enjoyed:
 1. for a few dollars more 
